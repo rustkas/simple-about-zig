@@ -7,3 +7,4 @@
 
 - [Привет, Zig!](ch-01-print-hello.md)
 - [Арифметические вычисления](ch-02-integer-calculations.md)
+- [Переменные](ch-03-variables.md)
