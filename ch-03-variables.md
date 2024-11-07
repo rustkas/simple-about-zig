@@ -8,20 +8,20 @@
 const std = @import("std");
 
 pub fn main() void {
-    var number: i32 = 2;
-    var other_number: i32 = 3;
+    const number: i32 = 2;
+    const other_number: i32 = 3;
     std.debug.print("{}\n", .{number + other_number});
 
-    var float_number: f64 = 2.0;
-    var other_float_number: f64 = 3.0;
+    const float_number: f64 = 2.0;
+    const other_float_number: f64 = 3.0;
     std.debug.print("{}\n", .{float_number + other_float_number});
 
-    var character: u8 = '='; // ASCII code for '='
-    var other_character: u8 = '!'; // ASCII code for '!'
+    const character: u8 = '='; // ASCII code for '='
+    const other_character: u8 = '!'; // ASCII code for '!'
     std.debug.print("{}{}\n", .{character, other_character});
 
-    var boolean_true: bool = true;
-    var boolean_false: bool = false;
+    const boolean_true: bool = true;
+    const boolean_false: bool = false;
     std.debug.print("{} != {}. {}\n", .{boolean_true, boolean_false, boolean_true != boolean_false});
 }
 ```
@@ -108,17 +108,9 @@ pub fn main() void {
 
 ### Стандартная библиотека Zig
 
-Язык Zig предоставляет обширную стандартную библиотеку для различных задач. Например, функция `std.mem.len` поможет работать с длинами данных.
+Язык Zig предоставляет обширную стандартную библиотеку для различных задач. 
 
-```zig
-const std = @import("std");
 
-pub fn main() void {
-    const text = "abcde";
-    const text_length = std.mem.len(text);
-    std.debug.print("Length of '{}': {}\n", .{text, text_length});
-}
-```
 
 Изучайте другие функции и их применения для повышения эффективности работы с Zig.
 
