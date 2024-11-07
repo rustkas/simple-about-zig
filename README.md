@@ -9,3 +9,4 @@
 - [Арифметические вычисления](ch-02-integer-calculations.md)
 - [Переменные](ch-03-variables.md)
 - [Логический тип данных](ch-04-boolean.md)
+- [Выражение if](ch-05-controlling-execution-flow.md)
