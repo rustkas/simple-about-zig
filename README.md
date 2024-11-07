@@ -6,3 +6,4 @@
 ## Оглавление
 
 - [Привет, Zig!](ch-01-print-hello.md)
+- [Арифметические вычисления](ch-02-integer-calculations.md)
