@@ -13,3 +13,4 @@
 - [Работа с последовательностями данных](ch-06-sequences-of-data.md)
 - [Примитивные типы](ch-07-primitive-types.md)
 - [Перечисления](ch-08-enums.md)
+- [Кортежи и структуры](ch-09-tupes_structs.md)
