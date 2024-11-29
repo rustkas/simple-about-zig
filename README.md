@@ -12,3 +12,4 @@
 - [Выражение if](ch-05-controlling-execution-flow.md)
 - [Работа с последовательностями данных](ch-06-sequences-of-data.md)
 - [Примитивные типы](ch-07-primitive-types.md)
+- [Перечисления](ch-08-enums.md)
