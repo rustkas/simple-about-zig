@@ -17,3 +17,4 @@
 - [Функции](ch-10-function.md)
 - [Обобщённое программирование](ch-11-generics.md)
 - [Управление памятью](ch-12-memory-allocation.md)
+- [Реализация типов данных](ch-13-implementation-of-data-types.md)
