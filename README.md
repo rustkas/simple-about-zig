@@ -14,3 +14,6 @@
 - [Примитивные типы](ch-07-primitive-types.md)
 - [Перечисления](ch-08-enums.md)
 - [Кортежи и структуры](ch-09-tupes_structs.md)
+- [Функции](ch-10-function.md)
+- [Обобщённое программирование](ch-11-generics.md)
+- [Управление памятью](ch-12-memory-allocation.md)
