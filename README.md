@@ -19,3 +19,4 @@
 - [Управление памятью](ch-12-memory-allocation.md)
 - [Реализация типов данных](ch-13-implementation-of-data-types.md)
 - [Анонимные функции](ch-14-anonimus-functions.md)
+- [Строки](ch-15-string.md)
