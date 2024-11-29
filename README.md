@@ -10,4 +10,4 @@
 - [Переменные](ch-03-variables.md)
 - [Логический тип данных](ch-04-boolean.md)
 - [Выражение if](ch-05-controlling-execution-flow.md)
-  [Работа с последовательностями данных в языке программирования Zig](ch-06-sequences-of-data.md)
+- [Работа с последовательностями данных в языке программирования Zig](ch-06-sequences-of-data.md)
