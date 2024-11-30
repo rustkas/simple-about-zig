@@ -20,3 +20,6 @@
 - [Реализация типов данных](ch-13-implementation-of-data-types.md)
 - [Анонимные функции](ch-14-anonimus-functions.md)
 - [Строки](ch-15-string.md)
+- [Диапазон](ch-16-range.md)
+- [Срезы](ch-17-slice.md)
+- [Итераторы](ch-18-iterator.md)
